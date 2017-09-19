@@ -1,16 +1,11 @@
-This example demonstrates how to use [Express](http://expressjs.com/) 4.x and
-[Passport](http://passportjs.org/) to authenticate users using a username and
-password with [form-based authentication](https://en.wikipedia.org/wiki/HTTP%2BHTML_form-based_authentication).
-Use this example as a starting point for your own web applications.
+
+[Original code](https://github.com/passport/express-4.x-local-example)
 
 ## Instructions
 
-To install this example on your computer, clone the repository and install
-dependencies.
-
 ```bash
-$ git clone git@github.com:passport/express-4.x-local-example.git
-$ cd express-4.x-local-example
+$ git clone git@github.com:ar-to/express-password-test.git
+$ cd express-password-test
 $ npm install
 ```
 
@@ -21,6 +16,5 @@ $ node server.js
 ```
 
 Open a web browser and navigate to [http://localhost:3000/](http://127.0.0.1:3000/)
-to see the example in action.  Log in using username `jack` and password `secret`.
-# express-password-test
-# express-password-test
+to see the example in action.  Log in using username `user` and password `secret`.
+
