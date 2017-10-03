@@ -1,3 +1,8 @@
+# Express-Passport-Test
+
+This repo shows how to use passport to authenticate routes after a user is logged in
+
+![Screencapture GIF](express-passport-sample.gif)
 
 [Original code](https://github.com/passport/express-4.x-local-example)
 
